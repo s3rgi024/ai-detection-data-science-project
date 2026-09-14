@@ -8,9 +8,6 @@ Este repositorio contiene el desarrollo del **Proyecto Final de Ciencia de Datos
 
 Analizar el comportamiento y la satisfacción de los usuarios en una plataforma digital de E-Commerce mediante técnicas de analítica de datos. El objetivo es identificar las causas operativas, de usabilidad (UX) y de servicio que motivan la pérdida de clientes, proporcionando información clave para la toma de decisiones estratégicas de retención.
 
-### 💻 Conexión con la Ingeniería de Sistemas
-En el ecosistema del desarrollo de software y servicios SaaS, la construcción de plataformas digitales no concluye con el despliegue del código. Comprender los patrones de comportamiento de los usuarios permite a los ingenieros proponer optimizaciones en la arquitectura del sistema, diseñar alertas automáticas de insatisfacción y mejorar la experiencia de usuario (UX).
-
 ---
 
 ## 📚 Estructura de la Ruta de Aprendizaje
